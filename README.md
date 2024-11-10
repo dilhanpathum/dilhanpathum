@@ -1,5 +1,10 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dilhan Pathum</h1>
+<br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=32&pause=1000&center=true&vCenter=true&width=800&lines=CS+undergraduate;Self+taught+Front-End+And+Back-End+Developer;Building+Tomorrow's+Web+Applications+Today;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
+</p>
+
 <h3 align="center">CS undergraduate | Building Tomorrow's Web Applications Today</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilhanpathum&label=Profile%20views&color=0e75b6&style=flat" alt="dilhanpathum" /> </p>
