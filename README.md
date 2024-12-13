@@ -44,7 +44,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dilhanpathum&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilhanpathum&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 <td width="50%" align="center">
 
