@@ -26,7 +26,7 @@ Associate Software Engineer | Java Backend Engineer | Spring Boot Developer
 - 💼 Currently working as an **Associate Software Engineer at INTTEQ (Pvt) Ltd**
 - 🔭 Building **enterprise-grade backend systems and reusable libraries**
 - 🌱 Exploring **Machine Learning, Distributed Systems, and Cloud Technologies**
-- 👨‍💻 Portfolio: **https://dilhanpathum.onrender.com**
+- 👨‍💻 Portfolio: **https://dilhanpathumme.onrender.com**
 - 💬 Ask me about **Java, Spring Boot, Microservices, RabbitMQ, Keycloak, React, and REST APIs**
 - 📫 Reach me at **dilhan.jayasiri@gmail.com**
 - 📄 Research: **Geographically Weighted Regression for Road Safety Prediction**
