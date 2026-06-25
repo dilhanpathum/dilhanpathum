@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
@@ -106,4 +106,4 @@ Microservices • REST APIs • Distributed Systems • OOP • AOP • Caching
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
   </a>
 </p>
-```
+
