@@ -84,9 +84,6 @@ Microservices • REST APIs • Distributed Systems • OOP • AOP • Caching
   <a href="https://instagram.com/dilhan_pathum">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
-  <a href="https://www.hackerrank.com/dilhan_jayasiri">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50"/>
-  </a>
 </p>
 
 ---
